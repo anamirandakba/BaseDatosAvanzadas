@@ -63,4 +63,4 @@ cuando ocurre un evanto en una tabla
 - git add origin -------
 - git push -u origin main
 
-- git branch rm rama-joi
+- git branch rm rama-joins

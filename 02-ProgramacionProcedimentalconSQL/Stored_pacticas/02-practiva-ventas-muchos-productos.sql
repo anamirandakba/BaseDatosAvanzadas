@@ -1,0 +1,1 @@
+-- tabla tipo type -> llenar con n productos y esa se le manda como parametro al SP (tarea)
